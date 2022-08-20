@@ -32,6 +32,7 @@ public class PerromartHomePage {
     }
     public void clickclosePoster()
     {
+
         closePoster.click();
     }
 }
